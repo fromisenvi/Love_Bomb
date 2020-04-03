@@ -557,3 +557,118 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.03-04.24.52:056][  0]LogEngineSessionManager: EngineSessionManager initialized
 [2020.04.03-04.24.52:309][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
 [2020.04.03-04.24.52:462][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.03-04.24.57:583][  0]LogInit: Transaction tracking system initialized
+[2020.04.03-04.25.02:451][  0]BlueprintLog: New page: Editor Load
+[2020.04.03-04.25.11:016][  0]LocalizationService: Localization service is disabled
+[2020.04.03-04.25.26:734][  0]LogFileCache: Scanning file cache for directory 'D:/Test/Love_Bomb/Content/' took 0.28s
+[2020.04.03-04.25.26:734][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.03-04.25.26:734][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.03-04.25.38:377][  0]Cmd: MAP LOAD FILE="../../../../../Test/Love_Bomb/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.03-04.25.38:776][  0]LightingResults: New page: Lighting Build
+[2020.04.03-04.25.39:256][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.03-04.25.39:353][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.03-04.25.39:369][  0]MapCheck: New page: Map Check
+[2020.04.03-04.25.39:369][  0]LightingResults: New page: Lighting Build
+[2020.04.03-04.25.40:257][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.04.03-04.25.45:676][  0]LogBlueprint: Warning: [Compiler BP_GameController] Input pin  Method  specifying non-default value no longer exists on node  Set members in PostProcessSettings . Please refresh node or reset pin to default value to remove pin.
+[2020.04.03-04.25.58:529][  0]LogMaterial: Display: Missing cached shader map for material blinn5, compiling. 
+[2020.04.03-04.25.58:580][  0]LogMaterial: Warning: D:\Test\Love_Bomb\Content\Props\Room\blinn5.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.03-04.25.58:580][  0]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Normal, should be Color for /Game/Props/Room/Door_Trial2.Door_Trial2
+[2020.04.03-04.25.59:772][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.03-04.26.03:126][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/StoryAdvTemplate/Maps/MenuScene) is flushing async loading
+[2020.04.03-04.26.03:126][  0]LogStreaming: Display: Flushing async loaders.
+[2020.04.03-04.26.04:408][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.03-04.26.04:856][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.04.03-04.26.04:857][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.03-04.26.04:901][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 33.254ms to complete.
+[2020.04.03-04.26.04:901][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 26.630
+[2020.04.03-04.26.08:091][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-04.26.08:132][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-04.26.08:138][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-04.26.08:144][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-04.26.08:476][  0]LogCollectionManager: Loaded 0 collections in 0.000864 seconds
+[2020.04.03-04.26.08:709][  0]LogFileCache: Scanning file cache for directory 'D:/Test/Love_Bomb/Saved/Collections/' took 0.00s
+[2020.04.03-04.26.08:709][  0]LogFileCache: Scanning file cache for directory 'D:/Test/Love_Bomb/Content/Developers/Hendra/Collections/' took 0.00s
+[2020.04.03-04.26.08:709][  0]LogFileCache: Scanning file cache for directory 'D:/Test/Love_Bomb/Content/Collections/' took 0.00s
+[2020.04.03-04.26.08:709][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 3015 classes and 717 folders.
+[2020.04.03-04.26.08:874][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.03-04.26.10:834][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.03-04.26.11:216][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.04.03-04.26.12:916][  0]LogSlate: Took 0.066853 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.03-04.26.13:049][  0]LogSlate: Took 0.080196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.03-04.26.13:205][  0]LogSlate: Took 0.049711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.03-04.26.14:472][  0]LogRenderer: Reallocating scene render targets to support 908x468 Format 10 NumSamples 1 (Frame:1).
+[2020.04.03-04.26.15:995][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.03-04.26.15:995][  0]LogLoad: (Engine Initialization) Total time: 235.60 seconds
+[2020.04.03-04.26.15:995][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.03-04.26.16:345][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.03-04.26.16:532][  0]LogSlate: Took 0.033654 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.03-04.26.20:351][ 54]LogAssetRegistry: Asset discovery search completed in 188.0824 seconds
+[2020.04.03-04.26.20:355][ 54]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.04.03-04.26.29:846][296]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.03-04.26.30:031][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.03-04.26.30:031][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene:PersistentLevel' has LevelScriptBlueprint '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene:PersistentLevel.MenuScene' with GeneratedClass '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene_C' with ClassGeneratedBy '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene:PersistentLevel.MenuScene'
+[2020.04.03-04.26.30:031][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.03-04.26.30:234][296]PIE: New page: PIE session: FirstPersonExampleMap (Apr 3, 2020, 6:26:30 PM)
+[2020.04.03-04.26.30:306][296]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.03-04.26.30:322][296]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.03-04.26.30:388][296]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.03-04.26.30:476][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087732s)
+[2020.04.03-04.26.30:478][296]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.04.03-04.26.30:512][296]LogPlayLevel: PIE: World Init took: (0.035860s)
+[2020.04.03-04.26.30:512][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.124147s)
+[2020.04.03-04.26.30:537][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.04.03-04.26.30:538][296]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.03-04.26.30:538][296]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.03-04.26.30:538][296]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.03-04.26.30:538][296]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.03-04.26.30:538][296]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.03-04.26.30:538][296]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.03-04.26.30:538][296]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.03-04.26.30:538][296]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.03-04.26.30:538][296]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.03-04.26.30:538][296]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.03-04.26.30:543][296]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.03-04.26.30:543][296]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.04.03-04.26.30:543][296]LogAudioMixer: Display: Is Default: Yes
+[2020.04.03-04.26.30:543][296]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.03-04.26.30:543][296]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.03-04.26.30:543][296]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.03-04.26.30:543][296]LogAudioMixer: Display: Channel Order:
+[2020.04.03-04.26.30:543][296]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.03-04.26.30:543][296]LogAudioMixer: Display: 1: FrontRight
+[2020.04.03-04.26.30:549][296]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.04.03-04.26.30:551][296]LogInit: FAudioDevice initialized.
+[2020.04.03-04.26.30:637][296]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.03-04.26.30:675][296]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.04.03-11.26.30
+[2020.04.03-04.26.30:696][296]LogWorld: Bringing up level for play took: 0.022937
+[2020.04.03-04.26.30:696][296]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.04.03-04.26.30:951][296]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.04.03-04.26.31:358][296]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 2.244
+[2020.04.03-04.26.31:358][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.03-04.26.31:358][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene:PersistentLevel' has LevelScriptBlueprint '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene:PersistentLevel.MenuScene' with GeneratedClass '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene_C' with ClassGeneratedBy '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene:PersistentLevel.MenuScene'
+[2020.04.03-04.26.36:466][546]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.03-04.26.36:483][546]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.03-04.26.36:503][546]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.03-04.26.36:504][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.03-04.26.36:504][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene:PersistentLevel' has LevelScriptBlueprint '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene:PersistentLevel.MenuScene' with GeneratedClass '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene_C' with ClassGeneratedBy '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene:PersistentLevel.MenuScene'
+[2020.04.03-04.26.36:504][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-04.26.36:504][546]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.04.03-04.26.36:504][546]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.03-04.26.36:627][546]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.03-04.26.36:627][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.03-04.26.36:633][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.03-04.26.36:633][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.04.03-04.26.36:633][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene:PersistentLevel' has LevelScriptBlueprint '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene:PersistentLevel.MenuScene' with GeneratedClass '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene_C' with ClassGeneratedBy '/Game/StoryAdvTemplate/Maps/MenuScene.MenuScene:PersistentLevel.MenuScene'
+[2020.04.03-04.26.36:637][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.03-04.26.37:140][546]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.03-04.26.37:218][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-04.26.37:326][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.04.03-04.26.37:344][547]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.04.03-04.26.40:293][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.03-04.26.40:969][721]LogSlate: Window 'Love_Bomb - Unreal Editor' being destroyed
+[2020.04.03-04.26.41:066][721]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.03-04.26.44:226][722]Cmd: QUIT_EDITOR
+[2020.04.03-04.26.44:226][722]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.04.03-04.26.44:451][722]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.04.03-04.26.44:531][722]LogAudioMixer: Display: No commands were queued while flushing the source manager.
